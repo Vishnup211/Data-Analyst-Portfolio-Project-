@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio-Project-
+# Data-Analyst-Portfolio-Project.
 ## Data Analyst Portfolio Project | Tableau Visualization
 ### 1. COVID-19 Global Dashboard (Tableau Project)
 
